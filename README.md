@@ -2,7 +2,7 @@
 
 # Global GDP & Internet Analysis
 
-[Click here to view the Jupyter Notebook] -link TBD
+[Click here to view the Jupyter Notebook.](https://github.com/jessicabohannon/UN-Global-GDP-Internet-Analysis/blob/main/UN_Data_Project.ipynb)
 
 ## Project Overview
 The Global GDP & Internet Analysis project offers a comprehensive exploration of the relationship between internet connectivity and economic prosperity worldwide. Leveraging datasets provided by the United Nations, the analysis aims to uncover insights into the developmental trajectories of nations, shedding light on the interplay between economic strength and digital adoption.
@@ -14,13 +14,6 @@ The Global GDP & Internet Analysis project offers a comprehensive exploration of
 * **Statistical Analysis:** Performed statistical analysis to identify correlations and relationships between GDP, internet usage, and other socio-economic indicators, enhancing understanding of global development trends.
 * **Merging and Integration:** Demonstrated proficiency in merging and integrating diverse datasets, facilitating comprehensive analysis and exploration of multidimensional relationships.
 * **Strategic Insights:** Provided data-driven insights and recommendations that could assist policymakers, researchers, and educators in making informed decisions related to economic development and digital infrastructure.
-
-## Python Techniques and Packages Used
-- **Pandas**: For data manipulation and analysis tasks, including cleaning, merging, and transformation.
-- **Matplotlib** and **Seaborn**: For creating informative visualizations to visualize trends and relationships within the datasets.
-- **NumPy**: For numerical computations and statistical analysis.
-- **Statistical Analysis**: Utilized statistical techniques to uncover correlations and patterns within the data.
-- **Data Integration**: Merged diverse datasets to facilitate comprehensive analysis of the relationship between GDP, internet usage, and other socio-economic indicators.
 
 ## Conclusion
 The Global GDP & Internet Analysis project demonstrates advanced skills in data manipulation, exploratory data analysis, and data visualization, applied to uncover insights into the complex dynamics of global economic development and digital adoption. By leveraging Python's versatile libraries and techniques, the analysis provides valuable insights that contribute to a deeper understanding of the evolving landscape of global prosperity and connectivity
